@@ -1,0 +1,2 @@
+runtime exception
+happy day2
